@@ -7,7 +7,7 @@ The tool is designed for educational purposes, emphasizing ethical use and requi
 1. Features :
 
 > Packet Sniffing : Captures TCP network packets in real-time.
-> Detailed Analysis: Extracts and displays key information from each packet, including :
+> Detailed Analysis : Extracts and displays key information from each packet, including :
 1.Source and Destination IP addresses
 2. Source and Destination Ports
 3. Protocol
